@@ -60,4 +60,4 @@ Requires Canvas 2D API and `requestAnimationFrame` support.
 
 ## License
 
-This is a fan project for educational/demonstration purposes. Dragon Ball characters are property of Toei Animation, Shueisha, and Akira Toriyama.
+This is a fan project for educational/demonstration purposes. Dragon Ball characters are property of Toei Animation, and Akira Toriyama.
